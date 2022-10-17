@@ -126,7 +126,6 @@ D:\Code\GIT-Projects\GIT-PPCP\PPCPWebApiServices\bin\System.Collections.Immutabl
 D:\Code\GIT-Projects\GIT-PPCP\PPCPWebApiServices\bin\System.Runtime.InteropServices.RuntimeInformation.dll
 D:\Code\GIT-Projects\GIT-PPCP\PPCPWebApiServices\bin\Twilio.dll
 D:\Code\GIT-Projects\GIT-PPCP\PPCPWebApiServices\bin\Microsoft.ReportViewer.WebForms.dll
-D:\Code\GIT-Projects\GIT-PPCP\PPCPWebApiServices\bin\Newtonsoft.Json.xml
 D:\Code\GIT-Projects\GIT-PPCP\PPCPWebApiServices\bin\Twilio.xml
 D:\Code\GIT-Projects\GIT-PPCP\PPCPWebApiServices\bin\EntityFramework.xml
 D:\Code\GIT-Projects\GIT-PPCP\PPCPWebApiServices\bin\EntityFramework.SqlServer.xml

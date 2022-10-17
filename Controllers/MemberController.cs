@@ -10,6 +10,7 @@ namespace PPCPWebApiServices.Controllers
 {
     public class MemberController : ApiController
     {
+        //Added comment line
         public class ServiceData
         {
             public string WebMethodName;
